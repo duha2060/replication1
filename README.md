@@ -31,6 +31,9 @@
 
 ![image](https://github.com/duha2060/replication1/assets/80347708/4b15b8ce-8863-46c3-8bcb-88198aa245b0)
 
+Репликация прошла успешно
+![image](https://github.com/duha2060/replication1/assets/80347708/011f29e0-9e73-4d38-92f4-01ae49f53392)
+
 
 
 ....
